@@ -60,7 +60,7 @@ the venus-docker-grafana images.
 
 ## 4. Change log of the images
 
-https://github.com/victronenergy/venus-docker-grafana-images/releases
+https://github.com/DilipTD/venus-docker-grafana-images/releases
 
 When built (by someone with the proper credentials), new binary images are uploaded here: https://hub.docker.com/u/victronenergy.
 
